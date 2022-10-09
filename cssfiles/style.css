@@ -37,9 +37,13 @@ ul li a{
     transition: 0.6s ease-in-out;
     border-radius: 10px;
 }
+
 ul li a:hover{
     color: #16ee4c;
     
+}
+.school{
+    color: blue;
 }
 h1{
     color: blue;
